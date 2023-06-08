@@ -22,9 +22,12 @@ Loading C:\Users\ashis\Downloads\MazeGamePC_Data\Managed\UnityEngine.Timeline.dl
 Platform assembly: C:\Users\ashis\Downloads\MazeGamePC_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\ashis\Downloads\MazeGamePC_Data\Managed\System.Core.dll (this message is harmless)
 - Completed reload, in  0.030 seconds
-<RI> Initializing input.
-<RI> Input initialized.
-<RI> Initialized touch support.
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
 UnloadTime: 0.818100 ms
 Setting up 8 worker threads for Enlighten.
   Thread -> id: 2b50 -> priority: 1 
